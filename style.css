@@ -67,7 +67,10 @@ button:hover {
     grid-template-columns: 10% 1fr 10%;
     grid-template-areas: 
     ". header .";
-    background: linear-gradient(var(--overlay),var(--overlay)), url(images/image-17.jpg);
+    background: linear-gradient(var(--overlay),var(--overlay)), 
+	
+	/*url(images/image-17.jpg)*/;
+	
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
