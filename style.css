@@ -60,7 +60,7 @@ button:hover {
 
 }
 
-.top__section {
+.top_section {
     grid-area: top__section;
     min-height: 370px;
     display: grid;
@@ -95,7 +95,7 @@ header button {
     border: none;
 }
 
-.content__section {
+.content_section {
     grid-area: content__section;
     display: grid;
     grid-template-columns: 10% 1fr 10%;
@@ -107,23 +107,23 @@ header button {
     margin-bottom: 60px;
 }
 
-.playlist__one {
+.playlist_one {
     grid-area: playlist__one;
 }
 
-.playlist__two {
+.playlist_two {
     grid-area: playlist__two;
 }
 
-.playlist__there {
+.playlist_there {
     grid-area: playlist__there;
 }
 
-.playlist__four {
+.playlist_four {
     grid-area: playlist__four;
 }
 
-.playlist__title {
+.playlist_title {
     margin: 30px 0;
 }
 
